@@ -42,7 +42,7 @@ Please see the PR body.
 
 ```json
 {
-  "currenValue": "v4"
+  "currenValue": "v4.0.0"
 }
 ```
 
